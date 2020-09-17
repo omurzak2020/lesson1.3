@@ -9,6 +9,6 @@ public class Main {
             System.out.println(" можно идти гулять");
             System.out.println("End of if");
         }
-        if (temperature == 25)
+        if (temperature == 25);
     }
 }
